@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.0",
+  "latestVersion": "1.5.0",
   "minimumRequiredVersion": "1.0.0",
-  "updateMessage": "نسخه اولیه سیستم حسابداری",
+  "updateMessage": "برای حفظ امنیت اطلاعات مالی شما و همگام‌سازی استاندارد با سرور مرکزی، نصب این بروزرسانی الزامی است. 🔒",
   "couchDbBaseUrl": "http://185.10.xx.xx:5984" 
 }
