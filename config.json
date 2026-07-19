@@ -1,0 +1,6 @@
+{
+  "latestVersion": "1.0.0",
+  "minimumRequiredVersion": "1.0.0",
+  "updateMessage": "نسخه اولیه سیستم حسابداری",
+  "couchDbBaseUrl": "http://185.10.xx.xx:5984" 
+}
