@@ -2,6 +2,6 @@
   "latestVersion": "1.5.0",
   "minimumRequiredVersion": "1.0.0",
   "updateMessage": "برای حفظ امنیت اطلاعات مالی شما، نصب این بروزرسانی الزامی است. 🔒",
-  "couchDbBaseUrl": "http://185.10.xx.xx:5984",
-  "updateUrl": "https://google.com" 
+  "couchDbBaseUrl": "https://cafe-couchdb.chbkn.dev",
+  "updateUrl": "" 
 }
