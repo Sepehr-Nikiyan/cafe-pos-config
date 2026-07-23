@@ -3,5 +3,5 @@
   "minimumRequiredVersion": "1.0.0",
   "updateMessage": "برای حفظ امنیت اطلاعات مالی شما، نصب این بروزرسانی الزامی است. 🔒",
   "couchDbBaseUrl": "https://cafe-couchdb.chbkn.dev",
-  "updateUrl": "https://marseagency.ir/downloads/" 
+  "updateUrl": "https://marseagency.ir/download-center/" 
 }
